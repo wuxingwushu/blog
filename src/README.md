@@ -4,14 +4,29 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 吾行误述
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 你必须认同只能成为如今的自己，才能成就未来的自己。
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 素净
+    desc: 像素破坏，游戏开发
+    link: https://github.com/wuxingwushu/PixelClean
+
+  - icon: project
+    name: 夜猫
+    desc: 时机亮度调节软件
+    link: https://github.com/wuxingwushu/NightCat
+
+  - icon: project
+    name: 翻译姬
+    desc: windows端 的 翻译软件
+    link: https://github.com/wuxingwushu/TranslatorKyi
+
+  - icon: project
+    name: 乱七八糟例程
+    desc: 功能测试代码集合
+    link: https://github.com/wuxingwushu/TestRoutineSet
 
   - icon: link
     name: 链接名称
