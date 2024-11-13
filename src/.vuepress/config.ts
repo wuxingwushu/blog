@@ -23,10 +23,10 @@ export default defineUserConfig({
     commentPlugin({
       provider: 'Giscus', // Artalk | Giscus | Waline | Twikoo
 
-      repo:"wuxingwushu/blog",
+      repo:'wuxingwushu/blog',
       repoId:"R_kgDONNlfTQ",
-      category:"1eedbe9df934c939e186392bf036c60eeb983d25",
-      categoryId:"Ov23liD4rzasgpgB9jjv",
+      category:"General",
+      categoryId:"DIC_kwDONNlfTc4CkPBG",
     }),
   ],
 
