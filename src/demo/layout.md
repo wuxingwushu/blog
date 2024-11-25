@@ -29,3 +29,32 @@ tag:
 - [打印按钮](https://theme-hope.vuejs.press/guide/interface/others.html#打印按钮)
 
 你可以在主题选项和页面的 frontmatter 中自定义它们。
+
+````markmap
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
+# markmap
+
+## 链接
+
+- <https://markmap.js.org/>
+- [GitHub](https://github.com/markmap/markmap)
+
+## 功能
+
+- 链接
+- **强调** ~~删除线~~ *斜体* ==高亮==
+- 多行
+  文字
+- `行内代码`
+-
+    ```js
+    console.log('code block');
+    ```
+- Katex
+  - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+- 现在我们可以通过 `maxWidth` 选项自动换行非常非常非常非常非常非常非常非常非常非常长的内容
+````

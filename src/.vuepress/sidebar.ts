@@ -11,9 +11,10 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "文章",
+      text: "技束",
       icon: "book",
-      prefix: "posts/",
+      prefix: "SkillConstraints/",
+      link: "SkillConstraints/",
       children: "structure",
     },
     "intro",

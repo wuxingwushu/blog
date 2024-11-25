@@ -36,17 +36,17 @@ export default hopeTheme({
     description: "希望进步到奇点的懒人",
     intro: "/intro.html",// 跳转到个人简介
     medias: {
-      BiliBili: "https://example.com",
-      Email: "mailto:info@example.com",
-      GitHub: "https://example.com",
-      QQ: "https://example.com",
-      Steam: "https://example.com",
-      Wechat: "https://example.com",
-      Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+      //BiliBili: "https://space.bilibili.com/209466625",
+      //Email: "wuxingwushu@qq.com",
+      GitHub: "https://github.com/wuxingwushu",
+      //QQ: "1779690036@qq.com",
+      //Steam: "https://example.com",
+      //Wechat: "https://example.com",
+      //Zhihu: "https://example.com",
+      //VuePressThemeHope: {
+      //  icon: "https://theme-hope-assets.vuejs.press/logo.svg",
+      //  link: "https://theme-hope.vuejs.press",
+      //},
     },
   },
 
