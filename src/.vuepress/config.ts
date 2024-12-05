@@ -1,6 +1,7 @@
-import { defineUserConfig } from "vuepress";
 import { commentPlugin } from '@vuepress/plugin-comment'// 评论插件
 import { markdownImagePlugin } from '@vuepress/plugin-markdown-image'// 图片插件
+import { defineUserConfig } from "vuepress";
+
 
 import theme from "./theme.js";
 
