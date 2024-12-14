@@ -18,6 +18,8 @@ cover: /assets/images/cover3.jpg
 - [ ] 素净midi音效代码理解
 - [ ] CPP实现midi音乐生成wav音乐文件
 - [ ] TPC网络协议知识点重温总结
+- [ ] 实现坦克动荡
+- [ ] 尝试移植游戏到手机上
 
 ## 已完成任务
 
