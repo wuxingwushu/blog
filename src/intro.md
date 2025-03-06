@@ -37,6 +37,7 @@ cover: /assets/images/cover3.jpg
 - [X] 汉诺塔程序解析步骤
 - [X] 生成字体位图数据和对应读取头文件
 - [X] ESP32一言墨水屏，实现Wed服务设置设备
+- [X] ESP32天气，文件系统和完善的Wed服务
 
 体素任务
 
